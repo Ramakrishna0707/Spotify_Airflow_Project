@@ -1,5 +1,0 @@
-client id : 1511b062f1234c8183dd698a94a5832d
-
-client secret: 0065386d8a7d456599c086b39dc79985
-
-Redirect URIs: http://localhost:3000
